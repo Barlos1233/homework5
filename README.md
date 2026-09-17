@@ -56,7 +56,7 @@ src
 |__README.md
 |__pyproject.toml
 
-##e Branch workflows 
+## Branch workflows 
 - 'main' - protectied and stable branch
 - 'dev' - active devoplement branch
 Contributions should me made from pull request
